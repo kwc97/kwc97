@@ -1,5 +1,11 @@
-### Hi there 👋
+## Hi there,  I am woochan, a computer engineering student👋
 
+![badge](https://img.shields.io/badge/Woochan%20Kim-Hello%20Github-orange)
+
+### : octocat: 안녕하세요? 김우찬입니다
+
+- 🔭 현재 열심히 웹 공부 중입니다.
+- 👯 모두 함께 화이팅!
 <!--
 **kwc97/kwc97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
